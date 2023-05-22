@@ -1,0 +1,7263 @@
+fileFormatVersion: 2
+guid: 00cbb25999861f44eb3250bd0401119c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26
+  spriteBorder: {x: 0, y: 312, z: 0, w: 312}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapImage_Shop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15664989fa65a0c41a70ce1398a30583
+      internalID: -2129275610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019e0b07cf030cb46827bc723db96b65
+      internalID: 2032728225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21fbc284a3dd8d47bf7d9460ee3d1c2
+      internalID: -1686552647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfe5218368471d47bcdd9bc794ec52d
+      internalID: 1239312759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c213208296e32040a79e16fc4ee7803
+      internalID: -835566470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80563ea15e543741a23dc4a390d4b0f
+      internalID: -545966405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a21a1a59e352924c89df7b500441455
+      internalID: 230299796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acffd1df08f2c90418a31040e47ff7a2
+      internalID: -947088047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 910
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89598fc9d7d4a442b5d07e770e3d1c1
+      internalID: -1517681318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc4a9b709dc9a41a778ae48cd5e1f3
+      internalID: -23865796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abde480069019844a2be9386e01e69f
+      internalID: 893573081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522a4f01399c984fab61a3ef9d1ac98
+      internalID: -269242291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d378b7da132149b571b2e4284a988
+      internalID: 1816857150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9c68ebc41fd542b03177468ebd264
+      internalID: -2034172905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0471d4ca12e644fbe55e4bf32b7d00
+      internalID: -1055388279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec5a6a8b76c71145a426a6a620e6079
+      internalID: 162416556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5e0ccbbd56a0549b961ebe55b9aba2
+      internalID: -1027822607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc26a8e37c8674094db8b1651cab74
+      internalID: 1198469370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57497325a9298274aaac6fd609007ff8
+      internalID: 873778705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ec291dd0b1d6546886a209058357f5
+      internalID: -563752745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa6fb269c1cc57479946072b414a5e5
+      internalID: 987216250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb831c0f029ffb40b3581a973f2024d
+      internalID: 1769461771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48149f66c4a28fa4ab3f527baa53b2cc
+      internalID: 964623632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1193795a015e43bc95ffe7f15c5ad
+      internalID: 213091702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8163f6bb959d4864ba01eca65abb3368
+      internalID: -2122493781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7abee9f7a042949b2320f97be4583e
+      internalID: 1875116925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 858
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5506070c68ebe746888151298d3bdc1
+      internalID: -753077868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0669da71eb34464c9ddb81e0546cdb0
+      internalID: -1254913454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db30c0896e9594b96ea6853fbec215
+      internalID: -1383428896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ef4ad73d1e67418b2e46895685f29
+      internalID: -638825183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f3cfc284408c143a2bbf555d713392
+      internalID: -909110421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1382fa0016cd944b88b2bba66e5e01
+      internalID: -516195361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53fd0c6d07cf0b44b03448c1c508d74
+      internalID: 888954129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30013e0cf003484a94149014916e4c1
+      internalID: -978809546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877dd317f3e7da4087037f2224dce6e
+      internalID: 1640355029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7354763dad3be4db2916c6f3467b56
+      internalID: -1478804875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d4c9d619034bd41bb713646648b2a7
+      internalID: -1280222697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526bb5d2fd0d0344c8becf78408cf9ec
+      internalID: -328905946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6a6f4fd623d40498b50a03766d0e40
+      internalID: 873122019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16f5bac7b4ff24e908a738018b8abf
+      internalID: 1345430284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e164b6fe7747340ac30e3220911c47
+      internalID: 1844341511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f271223deacf409e9b9cf6b904909
+      internalID: -1272780468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0414bc9e6f99b54e893734cf1df180b
+      internalID: 1085963755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d193d97ec8094881dc1f8c655bbfc
+      internalID: 2111819861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 806
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d012b28b152aba4d9413e19132729ca
+      internalID: -1555439006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0873068c8e5e48bc684bfd9294be2
+      internalID: -1088167665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9d21369dbfd2d458df0986e7f5cb87
+      internalID: 1569156771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8698c31f3c7142a54b4b01377543e
+      internalID: 650656495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f6778ebbee6c42aef0cda99518b1b
+      internalID: 1281848610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e5622fa4b4e6449dd82cfdde7ad74
+      internalID: 1572236095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaeb8f6a4e886844badec950911721c
+      internalID: 1433113363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b4ed164b45a604b8dbc8b8ce2ff2d0
+      internalID: -1153773659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552b3a7cc5d44d4588b0cade351efe7
+      internalID: -1263011112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 780
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecee0644a43b8245becf2a9053f15cb
+      internalID: 170983120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4281a08af676e074781708a8a974613c
+      internalID: -1414720126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff20fcf6a6fb08438f8f275b62e886a
+      internalID: -1973859293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83022dcc7e75744982e55b352c6057
+      internalID: 1130795395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74fd2b9c32f96b48a9ade40fc75f304
+      internalID: 2071915744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f80f1b86da749445876fdf28a0fd6e2
+      internalID: 1120080514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a38c8843c4b85499bd38c002f3b117
+      internalID: -48404985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2776c4bb2f09141b847c56fb3a109f
+      internalID: -1007619202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0a87bd92012148b8b51bba63c2558
+      internalID: -1541245469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851eb15765f636459614319564147d4
+      internalID: -1617369312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e77354f06f294ebd7af21ff60e448
+      internalID: -1132505219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727afc19c15d464c9e3526f9a990a9e
+      internalID: -1864957603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5de094caf3bff40ae182d2acb7291b
+      internalID: 127084924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_66
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3b30fa8a3221c4da123e5f7a8c99dc
+      internalID: 1754689984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028c243030bbfa4da42c641e452bc21
+      internalID: -1301939854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a30d8c50b502d429cde16b5166386d
+      internalID: 1268433871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ded7ac8c160c42be59ca50c599c13
+      internalID: -992894393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_70
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58d1f5644913f448b44bdb10270021
+      internalID: -1466723700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 728
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a9ed0921a1d9f458bbd719d122758b
+      internalID: 361995562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be6d34263b318448cd604e0c4d5ea2
+      internalID: -1223894732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450c76ae07b505c44aa6b563b78bd6c2
+      internalID: 260459387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6216ac15a052d41a262293a425b8f7
+      internalID: 486733145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32065c41081609048b49bd8fa49b2079
+      internalID: -605266931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe4971d0f4951449c68e8e4db1a465
+      internalID: 560837475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb218ebb2e15c0d428672817fe2c2f6e
+      internalID: -1783792149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_78
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f79f8febacfa41989fd287bcb7765
+      internalID: 1198395339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_79
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06dce57d85b1fd4696ee89d5cf75c47
+      internalID: -585703393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 702
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584edad37d89f2b44a78e58297b35890
+      internalID: -1730254453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e368305bc0e6f84db6a27acb816c9ba
+      internalID: 1898773052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e56240c9c4a2b48a5e626d2dd8f5fa
+      internalID: -34345357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e4df7b0a149d4db503e8dab8a4773
+      internalID: -1997812189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_84
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3717333cd5d6244be0fa3e229c085e
+      internalID: 693059765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe1ca70e7e0b6d42934b55d0d753bee
+      internalID: -1013920410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7edfabe27430b7418483a0a999e8744
+      internalID: 85238996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa7da765e5425849b62f18fdefef62a
+      internalID: 519377181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_88
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ab701e683fab046b891448fb5ecc92
+      internalID: 895937442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 676
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621a7a75841046429ad8bfa2e054565
+      internalID: 1567228718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97772e2c9f7b29e4397879b58acbca81
+      internalID: -909377253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_91
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce08afd09b3bb5140b7725f3a99be9d1
+      internalID: -110290457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_92
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207434d798bc4f47b874408a33c997a
+      internalID: 1362798466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6767a3c787ebcc409c3b0cefa8fc274
+      internalID: 1558269121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a5e3a5b33d39346a9188df355e8dca
+      internalID: -1046435626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50722bb1ea5f26644b587a1a19b9f396
+      internalID: -2096533574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de306fccd93b51f4383d7a30bd734f48
+      internalID: -1903280256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_97
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47813a14ebbe647a191687efa1be87
+      internalID: 1921151284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 650
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613edd894bd4afa4d9966544742c1a5d
+      internalID: 1862527476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e373c964d84bcc429383ebdb2cc7133
+      internalID: 426985055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_100
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa460ffccc5a864a94570608075f31d
+      internalID: 1694968109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053cbdb58a141e4eb4ad479f7e90fd7
+      internalID: 823861184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_102
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1b2142bb23be3438872e8c951ed8dc
+      internalID: 1075984586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b40d6285d42d429b80a8d925bf530
+      internalID: -1825457107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ebe8a00947bf342adede7259db439f
+      internalID: 514546139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_105
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d91c6d9085dcb41a1d296cdaed017f
+      internalID: 255486865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_106
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98880aa17df819a4988b541349d151cb
+      internalID: -1856067069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_107
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138e441a3696694fb685ce29d4f3fe4
+      internalID: -308450350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29be50a9f4a5b8f41b34ea2bda5bae55
+      internalID: -564861891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_109
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94b746fff2b31f4cba8960cef2086d7
+      internalID: -1750372677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_110
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abfabc7344b3bf4ab8723bbe8f85b12
+      internalID: -1896975310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_111
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd50766b991d264c944d9949ef2c6cd
+      internalID: 1230922599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a085ed1d8479ad42a612208e69933cb
+      internalID: 909758914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f33878bebec99248a872299b7da21e6
+      internalID: 1301314429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953ca5634c24dc4cacef158421cd51b
+      internalID: -1691508560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_115
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fdae483148bad4497ef81d69e447a2
+      internalID: 912310328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_116
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 598
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79c7b7faa86ae40837fea4e41ffa0b
+      internalID: -1182594399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f9a4aac70dda44bf83235466b224f
+      internalID: 666683822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_118
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f3aa5afb95ce24e93c32c90b6cc3e8
+      internalID: -1712409618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_119
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae5f65e2fc35754399730c4d2faa66e
+      internalID: 2088583149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_120
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b5341396d99d43a30e97c3ee87a97
+      internalID: -885750016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_121
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd470bfee1d1d54fb807296afc1bbf4
+      internalID: 93173730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b50c3f34f66b40966a94542dcf097
+      internalID: 2007064217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271eb89964751b409edb09b1b211e84
+      internalID: 972884867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_124
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191faf102c37b45489b35cb524172b2f
+      internalID: 1474937293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f7a700e89afb41864aa51f9290bf7
+      internalID: -17617652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a8d743d60d1e47b02bfa2e6e19f9a
+      internalID: -1588909011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_127
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79f5a121a6e174792fce2aa5d80164
+      internalID: 2107465375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_128
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c992cf804e515e49adc489fb65a82dd
+      internalID: -1273665736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_129
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be77463c4bf59646983ddb92b91b743
+      internalID: 1858180576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03d935559b32b4c87ac5a95686ea31
+      internalID: -1016256692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d57fac7edf7224d8db19065fa0f7fe
+      internalID: 2000489786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_132
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448f5619607de7f45ba00f24b54912bb
+      internalID: -250286936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_133
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc43cbbd2f3f9a04ebdd7e57cbfab980
+      internalID: -1225309753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 546
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96372f54ba9fd4a4998ba4047351b4db
+      internalID: 1061183300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15641b7d268438a4ebc27676dd3365f0
+      internalID: -254922700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_136
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c34f292e52a14ab83baefee479404
+      internalID: 1446432218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_137
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96670a5f561c8144b669b72a6dc5e63
+      internalID: -1278738354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_138
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8622cf9d11f994ba7db1497a6d3360
+      internalID: 2019064959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb62b72f4a13d7a4dbffd54b6c5fe0c5
+      internalID: -456973572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88906c1503fcffd45b133d2aee18c83c
+      internalID: 937448327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_141
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a042117def6d05408a03c5bb5cfd4a2
+      internalID: 1572642958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_142
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbeb1d0e796d034193783b794d1637a
+      internalID: 258908980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_143
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 520
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe43a374d8c7f4b9c0a660d2427de0
+      internalID: -1292272423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35c6f326f7fefa40919eba68cc3f117
+      internalID: -809219489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_145
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095990ec3b3a1194994ab91c65550cb2
+      internalID: 143055184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_146
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d511fac8c87e838498cfb3406707eb93
+      internalID: -2038500178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_147
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493b2e26214f204e9e23713d5be76c9
+      internalID: -1899267064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a356b0a0b2a348bb54290ba2c2a65
+      internalID: -1644265063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_149
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5caecc014a9f5498aa6bf553e1d5f4
+      internalID: 1170236752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_150
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfed1e0f02dd54f8e578f461a25167
+      internalID: 1569610527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_151
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5103c527c853041a9bf81c79c6ff16
+      internalID: 2141045590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_152
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db348de94f0aba04ba2bd344334135c9
+      internalID: -367563383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eb33b3302681c479eff5c77b5236c2
+      internalID: -1027479323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_154
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9538c93948d9a84d8be438ca6299a97
+      internalID: 501878173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_155
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1505c5921f473041b16ab2b2d1f7f61
+      internalID: -2103947847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_156
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db529907953429544bb45a7cfff748a4
+      internalID: -559439205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_157
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345da278a70a0b74d9b4c6d2937eb50b
+      internalID: -1830312275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_158
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4744df8c35704bb4da132bba1851c928
+      internalID: 1183167919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_159
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f2a02c710da249ba19d8f5825eb18
+      internalID: -1402768867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_160
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb35a9bee40d1444bb8fc7c46611079a
+      internalID: 1411638539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_161
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 468
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535197ab7d442ed41af9b3b6dfa83c4b
+      internalID: -597795394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65581facd14047c45afa15b6988399e7
+      internalID: -1464384301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_163
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65cd0b3e92e7b0428795b90e6679faf
+      internalID: 1199881718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_164
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d2c0240c3dde249bfef819564c330e
+      internalID: 1411212939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_165
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d72191cadb0141a5b3859a149d3aa
+      internalID: 622328405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_166
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62084631788faf479639a3080020a95
+      internalID: -2074149163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_167
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11f12c02d231ea49b306c20930f52e0
+      internalID: -1047753111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_168
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27542a60e7e714b8d16c03c69754f1
+      internalID: -658585381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_169
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af40250dc3a74c643829ffc61e914192
+      internalID: -1609819568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_170
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34b21650c1f634bb0977b369056cef
+      internalID: 1840462986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d814327c13be99546a561cc88cb05566
+      internalID: 1467769678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_172
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997925d62d651ee4fb6a460313c09b68
+      internalID: 116096949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_173
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589c0ab220ebef409485457e74ed92c
+      internalID: -1037454919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_174
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109cfdb9b95b3c44c9c8139eb9d19e64
+      internalID: 1908070145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_175
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f440ac05bb86d6b46abd63c9224798ce
+      internalID: -924089788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_176
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357f49f00baf304f9e697ce8462580f
+      internalID: 1198911349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_177
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45057a1ffe1602947a4306a943cdf12b
+      internalID: 1885489884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_178
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f292f5b297d2874f8713e887cb35d29
+      internalID: 835361211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_179
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12464a9085187b469eafc6e250c62ae
+      internalID: -1725740374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47682f4cc3d194408b1bd527e388b14
+      internalID: 540292087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_181
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7c0ff7400dcd24c81c7c9f42b2d9a2
+      internalID: -775839978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_182
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe76fa23343f04d890673cb6527252
+      internalID: -1454426004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_183
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6263939fe05ca4eb2179ea47aadf17
+      internalID: 647963950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_184
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eec58182fe1534b8b9de296cbc7e5e
+      internalID: -1201047516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_185
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18ff69c7ba3374ab2f311ce3fb60d9
+      internalID: 753075817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366d21ba594bf74997ec7c34c674dbe
+      internalID: 33314864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_187
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ff96a829d1084e819a451f491da54
+      internalID: -400050926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 390
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753b0247d7f49724ea5be3a04b11e00a
+      internalID: 1225938116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15384be157c774e926815755315c39
+      internalID: 1922734617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_190
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077dd715a49124043ab5f27e0cbfca77
+      internalID: 11506333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_191
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00950cff0724ac49b152fc1b4c7b8c3
+      internalID: -2045801042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_192
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa745f52aa506044bbdc83a5a90f5245
+      internalID: 497578028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_193
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1679e883ffbb13846a9dfd6b343235a0
+      internalID: 23070239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_194
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbddd644c843ab41972f403bad825a0
+      internalID: 608639807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_195
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5245d690fddf3841ad1ce6617f8f3aa
+      internalID: -107134110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_196
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13e89898b29d3f4288b2dfc21fdf3e3
+      internalID: 1822480966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_197
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d75247e048962488d8b6eec7087ff1
+      internalID: -981302579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb886b3c3c0e74d8c5debed85f7eca
+      internalID: -1718550672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_199
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5a6f256c86884689e366053204e7c
+      internalID: 2001794914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_200
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f679a3acbf6ebf40ab1cee7adc0deed
+      internalID: -1358732945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_201
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44966e27e1a5484dbd0cfecedbe2c99
+      internalID: -1603692284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_202
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5f53e2f3dc914ab954acb5b86da12
+      internalID: -1241665209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_203
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223279b2a535fe34fb7e7a7e3f360838
+      internalID: -1191678432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_204
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dfb001234faf44aaba648e8b4f863c
+      internalID: 287886141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_205
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c340776453fc4ab76697649bdf438
+      internalID: 374511448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_206
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 338
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7e50a3f9745c4a8789b24240f5b27
+      internalID: 1338771668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840014730893fae479c98b844df6bb43
+      internalID: 690002247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_208
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ba08950b9e534ea3319a4ae3654be
+      internalID: 1907037878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_209
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8562b437229d84793b6911d14c0418
+      internalID: -493713491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_210
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a58fb28c330b48923707de684e31c
+      internalID: -1688058984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_211
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21233ea94ae26a40b9c92630cfcd81f
+      internalID: -2094650221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_212
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc0b78d60e000f4d945fe11d8777c05
+      internalID: 893624841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_213
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40119c821c4fc634bb6a935cb45ffb38
+      internalID: 1882228617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_214
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba14f732c75145149879b770f6c2fe44
+      internalID: -1765524407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_215
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc97472c8ed88c498fc127565eaf5bb
+      internalID: -1463240037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a017df8165cd744280df6104ede004e
+      internalID: 79740362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_217
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e95d6feb0fc9498fe0f581247e52f
+      internalID: -1063306859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_218
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cdce7f3b23f8e40bda758eb275a1e2
+      internalID: 387427664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_219
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259c153c402c524e832c7b6422606bf
+      internalID: 846182179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_220
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e957b61e12adaa4987c5daa6baa0679
+      internalID: 1870972740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_221
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b652301390484dad71b90f7ea68bb
+      internalID: -476923687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_222
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f9deacfd49a0429874417697235fe
+      internalID: -705227337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_223
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b1ecc679dfecc41a1d3bd9273dbac5
+      internalID: -1837003157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_224
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 286
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4562f36017790c74795cc22e6a01a021
+      internalID: 1003141576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3790655084af45bbe6f2804ac3291
+      internalID: -1314338161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_226
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93cb08f4d813884b9e563ca65635859
+      internalID: -1533890389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_227
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba0eca5f929484c9a436101f5ec4c3
+      internalID: -852121514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_228
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339db59261db7f14d84c799fe5e50435
+      internalID: 38057054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_229
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb23d24ed75e44fba504b52fcc1f8f
+      internalID: 1278311921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_230
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393e664f47e1394cb0ee6662c3661d6
+      internalID: 999319864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_231
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678ba4a62e037ac4caad47584f234d49
+      internalID: 1120897588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_232
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2954ff7c1a47aa644bb222acb6601ca1
+      internalID: 751022804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_233
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 260
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0168d2f9cc55645a88a0a61f70ef76
+      internalID: -653208375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e1d775f9919647a2be2e158b77304
+      internalID: -1017259931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_235
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55b75728a15134181ca66e429a2d8c
+      internalID: 1654669129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_236
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d127cac3430bdbb4a91e74709baf4ca7
+      internalID: 871247598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_237
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262336c4ec8550540b28c3abb8b6962c
+      internalID: 1814741391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_238
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034f7e60a4bc4d4a8f188c14f9041a8
+      internalID: 613514181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_239
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d5fa7a1b1cca4eb03d8944854c3c9
+      internalID: 1342741017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_240
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f030e49d31af6946a99d04e0e45d265
+      internalID: -300949032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_241
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591389fd3d6b9c44faa4921b9d3fc3e8
+      internalID: 827380392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_242
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c842e677422444b751518edb2cf9b
+      internalID: -1634659826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5cf91c4205d14c8b233df32578ebd
+      internalID: 1343685157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_244
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6bc2622169ab6408513a055cc6114f
+      internalID: 1903128002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_245
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d59dee76aee6646aa13f613832245b
+      internalID: 2026274685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_246
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17706f0ff24cc4348a43b6aa48351e0e
+      internalID: -1963485986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_247
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d815f8b9e69de43a714a2cd009b18e
+      internalID: 1712719268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_248
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8830eb53ffbaffe4485082318252f242
+      internalID: 1036801483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_249
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e99d966241ae946bb704a1c06d35d0
+      internalID: -1452731610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_250
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82858c169492dc499e408b91f498264
+      internalID: -157904685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_251
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e3c329029b1149af014eed6c8738e
+      internalID: 1149910518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101408e4f14957499b492e83e3e1098
+      internalID: 866382041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_253
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23061405db9321d44bea73592cfffb43
+      internalID: 1722247601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_254
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc09054c92ed454fa5fd6e0df5d7e68
+      internalID: 1339688282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_255
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c08d626c450bd489c126acef725b6e
+      internalID: -510207840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_256
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487c489b1944af74789e38f07d0387a6
+      internalID: -1098774151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_257
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41f4ad606281c4fb41ae5175955f7b
+      internalID: -2009675425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_258
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6236f220e58e0d047992153009220a0b
+      internalID: -2021484245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_259
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c65823740ffb41a96ddcdfe855c28
+      internalID: -1091575445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_260
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87406cbbb791a04090c2b9d629979dc
+      internalID: -1901902903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85965289e707d1e48bcf55885c6d903f
+      internalID: -510523973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_262
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d677c6fb5ebc40b42bdaba43ee9db
+      internalID: 796102930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_263
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6899ceb0621fc84fbfe5466137bd817
+      internalID: 585478406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_264
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde71db64d924924bbd09394c6cdabc1
+      internalID: 14003499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_265
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f46f2695467945915e63882347c3d
+      internalID: -1911630314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_266
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b20e12c1d2024ba8d8009b628449a
+      internalID: 1558587763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_267
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09003e48ea6b68c4190143f67f10e37f
+      internalID: 1183100796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_268
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc5e04a65f78764b89903e5cbb1a9c5
+      internalID: 708932026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_269
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e4558f5cb3f04bbcd9aee0e154e0b
+      internalID: 1521880815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a25194f20b6ca242b9279512cb80726
+      internalID: -149372449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_271
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4f43e0fbf2a3244b6a1483f5e81734
+      internalID: 203281274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_272
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf82c005d4f80444b8d2dd8690d0e44
+      internalID: -913427144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_273
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39248ec95d669c14485e054434f853eb
+      internalID: 255594853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_274
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c06987772b40a449809cb21afc769d8
+      internalID: -2139655743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_275
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad393bbf41d0144be629031a281429
+      internalID: 1801482798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_276
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69b92a16f4bad4da7f1fc25df54ef0
+      internalID: -1311436079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_277
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd15039a78402f46b01782457adfe42
+      internalID: -837931287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_278
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a6b382a9b6334196c46b308f85653
+      internalID: 72593650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2656b64a57487743a8512d6180d5ea7
+      internalID: -1792478449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_280
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aab7abec0a313d42b9a78f453f96a5b
+      internalID: -540614793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_281
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e4394613f3b0f4997fbdd2b6bbf346
+      internalID: 1023408626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_282
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aff327617e93c42bd02992324a3d44
+      internalID: 194971766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_283
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e90f27c8310db408016a0fe3c970a8
+      internalID: 975990190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_284
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe7e9e25789c5648b8ef5561407cc39
+      internalID: -699802187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_285
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410275bb6bc02ab49bdf5b2aa4fc0d75
+      internalID: 1336655069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_286
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a68c2bea50c047980d03dfb27055b
+      internalID: -2044236761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_287
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5489ca06a7474d99ebabdde174f03
+      internalID: 555678458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92855f09433ac8e49b4e3d8c34acc23a
+      internalID: -677302713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_289
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b17989f177b4d46903677876f697b6
+      internalID: 50857883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_290
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b40742fcd62aa41b12d7fb04d8768f
+      internalID: 147356345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_291
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd376a15d577645b4a15d82378b1a8
+      internalID: 45186796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_292
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc2e7dde021cb4bac1e86bb3bdf6bf
+      internalID: -1950485105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_293
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44301adeaa185c499574a2bcf04114c
+      internalID: -1064213743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_294
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f0b59bcdc2ab41936b22f40dc2067
+      internalID: -1486615056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_295
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd278de1e692e74bb1bf2f392ba5bde
+      internalID: 1492623572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_296
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 78
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb1ad7f2c119b4aac87706cd716600
+      internalID: 236496554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f33db5c4bfbdda4d85008fcdb7bbfe2
+      internalID: -2040693032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_298
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273bcf5c4a89d24e96f7279ac47c3ad
+      internalID: 1727098660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_299
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9505e93513946b49afdc5e44ba6cb56
+      internalID: 1887947237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_300
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e93db0b9992e84e927bc94855cd423
+      internalID: -911993457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_301
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb684814c27264fae5025075a11574
+      internalID: -1960933209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_302
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1f6e51babbb2d4a93ab1aeed4a7a45
+      internalID: -600985166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_303
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09613d239bff7614dac0f29f5415495c
+      internalID: -130805027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_304
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbfc6324fed0444cab9fc06918ed502
+      internalID: 1380503200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_305
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e74a51e0d8854c9f01bb74f551df4
+      internalID: -1385249155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_306
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0000be814f064f8e632378343a738
+      internalID: 814662851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_307
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456e9ceb0b253e444900b5b7edb76c84
+      internalID: 2098209774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_308
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b133adcc1e8b794c8614c72b8dc2aaa
+      internalID: -505705925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_309
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4bd22067b3d9044a557bf83cd086df
+      internalID: -1242547647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_310
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90addb1d972ad0248b915f9c68978732
+      internalID: 10687698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_311
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3d6fa27a34ba4a9afb2ca64579b29
+      internalID: -684101377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_312
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d19e6a83026447af49c78d6d527ea
+      internalID: -1837408967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_313
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4746c8cdbcab49add0f374d31583f
+      internalID: -1409630554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_314
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f956c7ed20138f147838888bdeac40cc
+      internalID: 1219346047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4791a992975a9ae4b9cea0bd7a6262f9
+      internalID: 1565243613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_316
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7399c6d547e126a4ea49ec9536bf873e
+      internalID: 46842522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_317
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77969f5e6d6c938468e0920ffabe9b36
+      internalID: -725307748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_318
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1e840a298ccf549a2810e3138c3285
+      internalID: -355833434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_319
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d9219c7ff21f84190b0870776adad5
+      internalID: -322013127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_320
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b553cf5df112248b09082d08d8a2e5
+      internalID: -1197144883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_321
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48989b1214bd893468eecca3cb4c581b
+      internalID: 1219410743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_322
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f0c6672847c344bb00c86d31967473
+      internalID: -1458926798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapImage_Shop_323
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df69435f518ac14a915f229124893bb
+      internalID: -490629493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MapImage_Shop_99: 426985055
+      MapImage_Shop_109: -1750372677
+      MapImage_Shop_296: 236496554
+      MapImage_Shop_239: 1342741017
+      MapImage_Shop_274: -2139655743
+      MapImage_Shop_73: 260459387
+      MapImage_Shop_250: -157904685
+      MapImage_Shop_264: 14003499
+      MapImage_Shop_202: -1241665209
+      MapImage_Shop_323: -490629493
+      MapImage_Shop_136: 1446432218
+      MapImage_Shop_112: 909758914
+      MapImage_Shop_190: 11506333
+      MapImage_Shop_249: -1452731610
+      MapImage_Shop_110: -1896975310
+      MapImage_Shop_158: 1183167919
+      MapImage_Shop_18: 873778705
+      MapImage_Shop_252: 866382041
+      MapImage_Shop_290: 147356345
+      MapImage_Shop_240: -300949032
+      MapImage_Shop_227: -852121514
+      MapImage_Shop_27: -1254913454
+      MapImage_Shop_146: -2038500178
+      MapImage_Shop_120: -885750016
+      MapImage_Shop_116: -1182594399
+      MapImage_Shop_292: -1950485105
+      MapImage_Shop_42: 1085963755
+      MapImage_Shop_293: -1064213743
+      MapImage_Shop_41: -1272780468
+      MapImage_Shop_121: 93173730
+      MapImage_Shop_23: 213091702
+      MapImage_Shop_230: 999319864
+      MapImage_Shop_291: 45186796
+      MapImage_Shop_140: 937448327
+      MapImage_Shop_15: 162416556
+      MapImage_Shop_285: 1336655069
+      MapImage_Shop_4: -835566470
+      MapImage_Shop_186: 33314864
+      MapImage_Shop_214: -1765524407
+      MapImage_Shop_154: 501878173
+      MapImage_Shop_61: -1541245469
+      MapImage_Shop_80: -1730254453
+      MapImage_Shop_259: -1091575445
+      MapImage_Shop_312: -1837408967
+      MapImage_Shop_14: -1055388279
+      MapImage_Shop_220: 1870972740
+      MapImage_Shop_314: 1219346047
+      MapImage_Shop_169: -1609819568
+      MapImage_Shop_6: 230299796
+      MapImage_Shop_156: -559439205
+      MapImage_Shop_234: -1017259931
+      MapImage_Shop_72: -1223894732
+      MapImage_Shop_26: -753077868
+      MapImage_Shop_98: 1862527476
+      MapImage_Shop_311: -684101377
+      MapImage_Shop_20: 987216250
+      MapImage_Shop_147: -1899267064
+      MapImage_Shop_141: 1572642958
+      MapImage_Shop_51: -1153773659
+      MapImage_Shop_64: -1864957603
+      MapImage_Shop_79: -585703393
+      MapImage_Shop_262: 796102930
+      MapImage_Shop_162: -1464384301
+      MapImage_Shop_88: 895937442
+      MapImage_Shop_91: -110290457
+      MapImage_Shop_122: 2007064217
+      MapImage_Shop_132: -250286936
+      MapImage_Shop_170: 1840462986
+      MapImage_Shop_161: -597795394
+      MapImage_Shop_221: -476923687
+      MapImage_Shop_10: 893573081
+      MapImage_Shop_235: 1654669129
+      MapImage_Shop_229: 1278311921
+      MapImage_Shop_258: -2021484245
+      MapImage_Shop_304: 1380503200
+      MapImage_Shop_153: -1027479323
+      MapImage_Shop_222: -705227337
+      MapImage_Shop_263: 585478406
+      MapImage_Shop_3: 1239312759
+      MapImage_Shop_89: 1567228718
+      MapImage_Shop_0: -2129275610
+      MapImage_Shop_19: -563752745
+      MapImage_Shop_62: -1617369312
+      MapImage_Shop_97: 1921151284
+      MapImage_Shop_125: -17617652
+      MapImage_Shop_166: -2074149163
+      MapImage_Shop_47: 650656495
+      MapImage_Shop_39: 1345430284
+      MapImage_Shop_142: 258908980
+      MapImage_Shop_155: -2103947847
+      MapImage_Shop_275: 1801482798
+      MapImage_Shop_184: -1201047516
+      MapImage_Shop_9: -23865796
+      MapImage_Shop_295: 1492623572
+      MapImage_Shop_13: -2034172905
+      MapImage_Shop_168: -658585381
+      MapImage_Shop_183: 647963950
+      MapImage_Shop_201: -1603692284
+      MapImage_Shop_247: 1712719268
+      MapImage_Shop_38: 873122019
+      MapImage_Shop_133: -1225309753
+      MapImage_Shop_206: 1338771668
+      MapImage_Shop_123: 972884867
+      MapImage_Shop_313: -1409630554
+      MapImage_Shop_271: 203281274
+      MapImage_Shop_224: 1003141576
+      MapImage_Shop_17: 1198469370
+      MapImage_Shop_118: -1712409618
+      MapImage_Shop_178: 835361211
+      MapImage_Shop_135: -254922700
+      MapImage_Shop_299: 1887947237
+      MapImage_Shop_188: 1225938116
+      MapImage_Shop_101: 823861184
+      MapImage_Shop_198: -1718550672
+      MapImage_Shop_127: 2107465375
+      MapImage_Shop_7: -947088047
+      MapImage_Shop_107: -308450350
+      MapImage_Shop_176: 1198911349
+      MapImage_Shop_96: -1903280256
+      MapImage_Shop_270: -149372449
+      MapImage_Shop_85: -1013920410
+      MapImage_Shop_243: 1343685157
+      MapImage_Shop_212: 893624841
+      MapImage_Shop_187: -400050926
+      MapImage_Shop_160: 1411638539
+      MapImage_Shop_21: 1769461771
+      MapImage_Shop_266: 1558587763
+      MapImage_Shop_60: -1007619202
+      MapImage_Shop_163: 1199881718
+      MapImage_Shop_302: -600985166
+      MapImage_Shop_129: 1858180576
+      MapImage_Shop_318: -355833434
+      MapImage_Shop_200: -1358732945
+      MapImage_Shop_131: 2000489786
+      MapImage_Shop_148: -1644265063
+      MapImage_Shop_32: 888954129
+      MapImage_Shop_159: -1402768867
+      MapImage_Shop_55: -1973859293
+      MapImage_Shop_280: -540614793
+      MapImage_Shop_75: -605266931
+      MapImage_Shop_157: -1830312275
+      MapImage_Shop_12: 1816857150
+      MapImage_Shop_196: 1822480966
+      MapImage_Shop_308: -505705925
+      MapImage_Shop_316: 46842522
+      MapImage_Shop_114: -1691508560
+      MapImage_Shop_182: -1454426004
+      MapImage_Shop_232: 751022804
+      MapImage_Shop_315: 1565243613
+      MapImage_Shop_149: 1170236752
+      MapImage_Shop_309: -1242547647
+      MapImage_Shop_76: 560837475
+      MapImage_Shop_277: -837931287
+      MapImage_Shop_11: -269242291
+      MapImage_Shop_260: -1901902903
+      MapImage_Shop_63: -1132505219
+      MapImage_Shop_172: 116096949
+      MapImage_Shop_322: -1458926798
+      MapImage_Shop_177: 1885489884
+      MapImage_Shop_59: -48404985
+      MapImage_Shop_226: -1533890389
+      MapImage_Shop_165: 622328405
+      MapImage_Shop_103: -1825457107
+      MapImage_Shop_197: -981302579
+      MapImage_Shop_193: 23070239
+      MapImage_Shop_69: -992894393
+      MapImage_Shop_86: 85238996
+      MapImage_Shop_300: -911993457
+      MapImage_Shop_115: 912310328
+      MapImage_Shop_52: -1263011112
+      MapImage_Shop_246: -1963485986
+      MapImage_Shop_194: 608639807
+      MapImage_Shop_40: 1844341511
+      MapImage_Shop_29: -638825183
+      MapImage_Shop_269: 1521880815
+      MapImage_Shop_56: 1130795395
+      MapImage_Shop_283: 975990190
+      MapImage_Shop_1: 2032728225
+      MapImage_Shop_185: 753075817
+      MapImage_Shop_191: -2045801042
+      MapImage_Shop_192: 497578028
+      MapImage_Shop_286: -2044236761
+      MapImage_Shop_244: 1903128002
+      MapImage_Shop_24: -2122493781
+      MapImage_Shop_203: -1191678432
+      MapImage_Shop_209: -493713491
+      MapImage_Shop_167: -1047753111
+      MapImage_Shop_173: -1037454919
+      MapImage_Shop_54: -1414720126
+      MapImage_Shop_228: 38057054
+      MapImage_Shop_265: -1911630314
+      MapImage_Shop_68: 1268433871
+      MapImage_Shop_207: 690002247
+      MapImage_Shop_217: -1063306859
+      MapImage_Shop_16: -1027822607
+      MapImage_Shop_143: -1292272423
+      MapImage_Shop_66: 1754689984
+      MapImage_Shop_130: -1016256692
+      MapImage_Shop_81: 1898773052
+      MapImage_Shop_138: 2019064959
+      MapImage_Shop_320: -1197144883
+      MapImage_Shop_95: -2096533574
+      MapImage_Shop_219: 846182179
+      MapImage_Shop_48: 1281848610
+      MapImage_Shop_301: -1960933209
+      MapImage_Shop_223: -1837003157
+      MapImage_Shop_117: 666683822
+      MapImage_Shop_189: 1922734617
+      MapImage_Shop_90: -909377253
+      MapImage_Shop_272: -913427144
+      MapImage_Shop_50: 1433113363
+      MapImage_Shop_49: 1572236095
+      MapImage_Shop_93: 1558269121
+      MapImage_Shop_279: -1792478449
+      MapImage_Shop_289: 50857883
+      MapImage_Shop_238: 613514181
+      MapImage_Shop_215: -1463240037
+      MapImage_Shop_102: 1075984586
+      MapImage_Shop_267: 1183100796
+      MapImage_Shop_268: 708932026
+      MapImage_Shop_25: 1875116925
+      MapImage_Shop_236: 871247598
+      MapImage_Shop_37: -328905946
+      MapImage_Shop_281: 1023408626
+      MapImage_Shop_57: 2071915744
+      MapImage_Shop_297: -2040693032
+      MapImage_Shop_225: -1314338161
+      MapImage_Shop_34: 1640355029
+      MapImage_Shop_104: 514546139
+      MapImage_Shop_87: 519377181
+      MapImage_Shop_139: -456973572
+      MapImage_Shop_261: -510523973
+      MapImage_Shop_303: -130805027
+      MapImage_Shop_211: -2094650221
+      MapImage_Shop_273: 255594853
+      MapImage_Shop_179: -1725740374
+      MapImage_Shop_254: 1339688282
+      MapImage_Shop_278: 72593650
+      MapImage_Shop_119: 2088583149
+      MapImage_Shop_134: 1061183300
+      MapImage_Shop_199: 2001794914
+      MapImage_Shop_204: 287886141
+      MapImage_Shop_74: 486733145
+      MapImage_Shop_36: -1280222697
+      MapImage_Shop_44: -1555439006
+      MapImage_Shop_53: 170983120
+      MapImage_Shop_319: -322013127
+      MapImage_Shop_231: 1120897588
+      MapImage_Shop_317: -725307748
+      MapImage_Shop_58: 1120080514
+      MapImage_Shop_152: -367563383
+      MapImage_Shop_8: -1517681318
+      MapImage_Shop_83: -1997812189
+      MapImage_Shop_181: -775839978
+      MapImage_Shop_33: -978809546
+      MapImage_Shop_237: 1814741391
+      MapImage_Shop_67: -1301939854
+      MapImage_Shop_294: -1486615056
+      MapImage_Shop_305: -1385249155
+      MapImage_Shop_113: 1301314429
+      MapImage_Shop_171: 1467769678
+      MapImage_Shop_195: -107134110
+      MapImage_Shop_241: 827380392
+      MapImage_Shop_218: 387427664
+      MapImage_Shop_288: -677302713
+      MapImage_Shop_105: 255486865
+      MapImage_Shop_310: 10687698
+      MapImage_Shop_287: 555678458
+      MapImage_Shop_94: -1046435626
+      MapImage_Shop_242: -1634659826
+      MapImage_Shop_307: 2098209774
+      MapImage_Shop_126: -1588909011
+      MapImage_Shop_46: 1569156771
+      MapImage_Shop_256: -1098774151
+      MapImage_Shop_92: 1362798466
+      MapImage_Shop_106: -1856067069
+      MapImage_Shop_213: 1882228617
+      MapImage_Shop_5: -545966405
+      MapImage_Shop_43: 2111819861
+      MapImage_Shop_137: -1278738354
+      MapImage_Shop_257: -2009675425
+      MapImage_Shop_128: -1273665736
+      MapImage_Shop_174: 1908070145
+      MapImage_Shop_248: 1036801483
+      MapImage_Shop_144: -809219489
+      MapImage_Shop_71: 361995562
+      MapImage_Shop_253: 1722247601
+      MapImage_Shop_276: -1311436079
+      MapImage_Shop_28: -1383428896
+      MapImage_Shop_70: -1466723700
+      MapImage_Shop_100: 1694968109
+      MapImage_Shop_108: -564861891
+      MapImage_Shop_77: -1783792149
+      MapImage_Shop_150: 1569610527
+      MapImage_Shop_124: 1474937293
+      MapImage_Shop_180: 540292087
+      MapImage_Shop_255: -510207840
+      MapImage_Shop_245: 2026274685
+      MapImage_Shop_251: 1149910518
+      MapImage_Shop_216: 79740362
+      MapImage_Shop_22: 964623632
+      MapImage_Shop_30: -909110421
+      MapImage_Shop_233: -653208375
+      MapImage_Shop_210: -1688058984
+      MapImage_Shop_31: -516195361
+      MapImage_Shop_84: 693059765
+      MapImage_Shop_298: 1727098660
+      MapImage_Shop_145: 143055184
+      MapImage_Shop_2: -1686552647
+      MapImage_Shop_35: -1478804875
+      MapImage_Shop_78: 1198395339
+      MapImage_Shop_306: 814662851
+      MapImage_Shop_82: -34345357
+      MapImage_Shop_282: 194971766
+      MapImage_Shop_151: 2141045590
+      MapImage_Shop_175: -924089788
+      MapImage_Shop_164: 1411212939
+      MapImage_Shop_65: 127084924
+      MapImage_Shop_205: 374511448
+      MapImage_Shop_284: -699802187
+      MapImage_Shop_208: 1907037878
+      MapImage_Shop_321: 1219410743
+      MapImage_Shop_111: 1230922599
+      MapImage_Shop_45: -1088167665
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 10c6a9781aa03294bae7bcbaa3c23ad3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1619.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e506580fdf3114dac45326bfbff2d7
+      internalID: 2054135078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1534.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01551315aff01fe42a6c9231f430db24
+      internalID: 1771395279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdae940646ba2741a171b0323de9416
+      internalID: -977179869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699d0b237acd324cb061bbc64d7c1f0
+      internalID: 328877142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6b9b2df82fd942b7bae87be5eac33
+      internalID: 2089739255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068614e768b78034ea66c43c22768638
+      internalID: -1274192222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1109.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81f29c69f79354439800ff432ece841
+      internalID: -1104721505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a035f2d5a48d734aa7ed2fa16f2f0bc
+      internalID: -87846652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4410623e95f12499493128240f8ac3
+      internalID: -720342225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af416eeb4350947a0b5ea4f2da9a73
+      internalID: 1554107975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb5a74d141daa48870887d3580300d
+      internalID: -1840538704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2c6089e5309149b84c07ec36c0a47
+      internalID: -117795265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9a330f4ea65874894f5aa4665cb5d6
+      internalID: 1481681710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77805b2f1657ed74faeba318b71b7cf0
+      internalID: 283511058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1382f72863aa8044fb2b4540fff5dcb2
+      internalID: 456223055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e43269091e14348850d7f091aca7c0
+      internalID: 1844875015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56731a3b94be8dc498e19835744c51a9
+      internalID: 495294858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95753e3ce274ab43aef510c4fdd7c19
+      internalID: -255494428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd679e52f62b048a3926d787158e46
+      internalID: 1769515751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Poof_Normal_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.75
+        width: 96
+        height: 85.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4535fef1aebe944eb0c474aecbe2530
+      internalID: 1102801323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_Poof_Normal_0: 2054135078
+      Effect_Poof_Normal_1: 1771395279
+      Effect_Poof_Normal_10: -1840538704
+      Effect_Poof_Normal_11: -117795265
+      Effect_Poof_Normal_12: 1481681710
+      Effect_Poof_Normal_13: 283511058
+      Effect_Poof_Normal_14: 456223055
+      Effect_Poof_Normal_15: 1844875015
+      Effect_Poof_Normal_16: 495294858
+      Effect_Poof_Normal_17: -255494428
+      Effect_Poof_Normal_18: 1769515751
+      Effect_Poof_Normal_19: 1102801323
+      Effect_Poof_Normal_2: -977179869
+      Effect_Poof_Normal_3: 328877142
+      Effect_Poof_Normal_4: 2089739255
+      Effect_Poof_Normal_5: -1274192222
+      Effect_Poof_Normal_6: -1104721505
+      Effect_Poof_Normal_7: -87846652
+      Effect_Poof_Normal_8: -720342225
+      Effect_Poof_Normal_9: 1554107975
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
